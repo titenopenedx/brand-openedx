@@ -4,7 +4,7 @@
   "description": "The default branding and SASS theme package containing for Open edX applications. This package is designed to be copied and customized.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/brand-openedx.git"
+    "url": "git+https://github.com/titenopenedx/brand-openedx.git"
   },
   "author": "Open edX Community",
   "license": "GPL-3.0-or-later",
